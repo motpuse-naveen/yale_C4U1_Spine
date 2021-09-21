@@ -1,8 +1,8 @@
 [
-
+    
 	{
 		"header": {
-			"titleText": "Radiology Chest"
+			"titleText": "Spine"
 		},
 		"pageSection": {
 			"titleInstruction": "Drag and drop the labels.",
@@ -29,30 +29,1966 @@
 			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
 		},
 		"LeftPos": [
-			384,
-			642
+			282,
+			148,
+			392,
+			680,
+			780,
+			855
 		],
 		"TopPos": [
-			258,
-			342
+			85,
+			241,
+			233,
+			239,
+			147,
+			244
 		],
 		"OptionArray": [
-			"Left hemidiaphragm",
-			"Right hemidiaphragm"
+			"Cervical",
+			"Lumbar",
+			"llium",
+			"Thoracic",
+			"Scapula",
+			"Sacrum"
 		],
 		"DropPosition": [
+			"Left",
+			"Bottom",
+			"Bottom",
+			"Bottom",
+			"Top",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"Scapula",
+			"Cervical",
+			"Thoracic",
+			"Lumbar",
+			"llium",
+			"Sacrum"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_02.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			280,
+			447,
+			551,
+			147,
+			519,
+			327
+		],
+		"TopPos": [
+			95,
+			143,
+			251,
+			267,
+			360,
+			453
+		],
+		"OptionArray": [
+			"Head of rib",
+			"1st rib",
+			"Clavicle",
+			"Tubercle of rib",
+			"Vertebral body",
+			"Manubrium"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Right",
+			"Bottom",
+			"Bottom",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Tubercle of rib",  
+			"Head of rib",
+			"Vertebral body",
+			"1st rib",
+			"Clavicle",
+			"Manubrium"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+    {
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_03.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			137,
+			341,
+			485,
+			497,
+			743,
+			744
+		],
+		"TopPos": [
+			233,
+			241,
+			138,
+			345,
+			331,
+			93
+		],
+		"OptionArray": [
+			"Transverse process",
+			"Pedicle",
+			"Vertebral body",
+			"Intervertebral disc",
+			"Intervertebral foramen",  
+			"Spinous process"
+		],
+		"DropPosition": [
+			"Top",
+			"Top",
+			"Top",
+			"Bottom",
+			"Bottom",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Intervertebral foramen",  
+			"Pedicle",
+			"Transverse process",
+			"Vertebral body",
+			"Intervertebral disc",
+			"Spinous process"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_04.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			104,
+			241,
+			425,
+			416,
+			717,
+			867
+		],
+		"TopPos": [
+			327,
+			355,
+			247,
+			321,
+			338,
+			37
+		],
+		"OptionArray": [
+			"Axis",
+			"Vertebra prominens",
+			"Transverse process",
+			"Facet joint",
+			"Atlas", 
+			"Vertebral artery"
+		],
+		"DropPosition": [
+			"Bottom",
+			"Bottom",
+			"Top",
+			"Bottom",
+			"Bottom",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Atlas",  
+			"Axis",
+			"Facet joint",
+			"Vertebral artery",
+			"Transverse process",
+			"Vertebra prominens"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_05.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			176,
+			237,
+			415,
+			494,
+			507,
+			677
+		],
+		"TopPos": [
+			159,
+			189,
+			407,
+			258,
+			57,
+			175
+		],
+		"OptionArray": [
+			"Transverse foramen",
+			"Posterior arch",
+			"Transverse process", 
+			"Articular facet", 
+			"Spinal canal",
+			"Anterior arch"
+		],
+		"DropPosition": [
+			"Top",
+			"Bottom",
+			"Left",
+			"Bottom",
 			"Left",
 			"Right"
 		],
 		"CorrectOptionArray": [
-			"Right hemidiaphragm",
-			"Left hemidiaphragm"
+			"Transverse process",  
+			"Transverse foramen",
+			"Posterior arch",
+			"Spinal canal",
+			"Anterior arch",
+			"Articular facet"
 		],
 		"DropListArray": [
 			"1",
-			"2"
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
 		],
 		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_06.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			223,
+			378,
+			451,
+			451,
+			453,
+			579
+		],
+		"TopPos": [
+			147,
+			317,
+			382,
+			171,
+			79,
+			87
+		],
+		"OptionArray": [ 
+			"Laminal arch",
+			"Transverse process", 
+			"Bifid spinous process",
+			"Articular facet",
+			"Vertebral body",
+			"Dens"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Right",
+			"Bottom",
+			"Top",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Transverse process",  
+			"Laminal arch",
+			"Bifid spinous process",
+			"Vertebral body",
+			"Dens",
+			"Articular facet"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_07.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			277,
+			223,
+			485,
+			486,
+			599,
+			697
+		],
+		"TopPos": [
+			143,
+			153,
+			107,
+			217,
+			96,
+			159			
+		],
+		"OptionArray": [  
+			"Transverse process",
+			"Transverse foramen",
+			"Articular facet",
+			"Dens",
+			"C1",
+			"C2"
+		],
+		"DropPosition": [
+			"Top",
+			"Bottom",
+			"Top",
+			"Right",
+			"Top",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Transverse foramen",  
+			"Transverse process",
+			"Dens",
+			"C2",
+			"Articular facet",
+			"C1"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+    {
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_08.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			201,
+			481,
+			476,
+			520,
+			645,
+			561	
+		],
+		"TopPos": [
+			141,
+			137,
+			273,
+			70,
+			184,
+			357			
+		],
+		"OptionArray": [
+			"Articular facet",
+			"Transverse process",  
+			"Anterior arch",
+			"Spinal canal",
+			"Posterior arch",
+			"Dens"
+		],
+		"DropPosition": [
+			"Top",
+			"Left",
+			"Left",
+			"Right",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Transverse process",  
+			"Dens",
+			"Spinal canal",
+			"Anterior arch",
+			"Articular facet",
+			"Posterior arch"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_09.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			303,
+			301,
+			485,
+			494,
+			487,
+			645			
+		],
+		"TopPos": [
+			93,
+			198,
+			398,
+			93,
+			239,
+			125		
+		],
+		"OptionArray": [
+			"Vertebral body",
+			"Spinal canal",
+			"Spinous process",
+			"Transverse foramen",
+			"Transverse process",  
+			"Articular process"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Bottom",
+			"Top",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Transverse process",  
+			"Articular process",
+			"Spinous process",
+			"Vertebral body",
+			"Spinal canal",
+			"Transverse foramen"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_10.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			460,
+			358,
+			297,
+			559,
+			477,
+			425		
+		],
+		"TopPos": [
+			103,
+			258,
+			315,
+			198,
+			308,
+			376			
+		],
+		"OptionArray": [ 
+			"Articular process",
+			"Vertebral body",  
+			"Transverse process",
+			"Spinous process",
+			"Pedicle",
+			"Laminal arch"
+		],
+		"DropPosition": [
+			"Left",
+			"Top",
+			"Left",
+			"Right",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Vertebral body",  
+			"Articular process",
+			"Transverse process",
+			"Pedicle",
+			"Laminal arch",
+			"Spinous process"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_11.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			434,
+			444,
+			539,
+			699
+		],
+		"TopPos": [
+			79,
+			192,
+			447,
+			35			
+		],
+		"OptionArray": [ 
+			"Coccyx",
+			"Sacral foramen",  
+			"S2",
+			"Sacral ala"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Sacral foramen",  
+			"S2",
+			"Coccyx",
+			"Sacral ala"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+    {
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_12.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			75,
+			208,
+			552,
+			744,
+			880			
+		],
+		"TopPos": [
+			242,
+			228,
+			165,
+			204,
+			227		
+		],
+		"OptionArray": [ 
+			"Lumbar",
+			"Occiput",
+			"Sacral",
+			"Thoracic",
+			"Cervical"  
+		],
+		"DropPosition": [
+			"Bottom",
+			"Top",
+			"Bottom",
+			"Top",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"Sacral",
+			"Lumbar",
+			"Thoracic",
+			"Cervical",
+			"Occiput"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+    {
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_13.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			253,
+			600,
+			530,
+			658,
+			777,
+			743			
+		],
+		"TopPos": [
+			209,
+			148,
+			242,
+			350,
+			260,
+			103			
+		],
+		"OptionArray": [ 
+			"Cisterna magna",
+			"Transverse sinus",
+			"Cervical spinal cord",  
+			"Cerebellum",
+			"Occipital lobe",
+			"Superior sagittal sinus"
+		],
+		"DropPosition": [
+			"Bottom",
+			"Left",
+			"Bottom",
+			"Bottom",
+			"Top",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Cervical spinal cord",  
+			"Cerebellum",
+			"Cisterna magna",
+			"Transverse sinus",
+			"Superior sagittal sinus",
+			"Occipital lobe"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_14.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			125,
+			296,
+			385,
+			702			
+		],
+		"TopPos": [
+			121,
+			167,
+			173,
+			330			
+		],
+		"OptionArray": [ 
+			"Obex",
+			"Cervical spinal cord",
+			"Cerebellum",
+			"IV ventricle"	
+		],
+		"DropPosition": [
+			"Top",
+			"Bottom",
+			"Top",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Cervical spinal cord",
+			"Obex",
+			"IV ventricle",
+			"Cerebellum"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_15.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			358,
+			383,
+			506,
+			432,
+			840			
+		],
+		"TopPos": [
+			159,
+			44,
+			171,
+			242,
+			365			
+		],
+		"OptionArray": [ 
+			"Dorsal root",  
+			"Spinal nerve",
+			"Denticulate ligament",
+			"Ventral root",
+			"Cervical spinal cord"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Right",
+			"Bottom",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"Ventral root",  
+			"Spinal nerve",
+			"Dorsal root",
+			"Denticulate ligament",
+			"Cervical spinal cord"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_16.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			103,
+			373,
+			525,
+			728			
+		],
+		"TopPos": [
+			306,
+			254,
+			286,
+			251			
+		],
+		"OptionArray": [ 
+			"Ventral dura",
+			"Filum terminate",
+			"Conus medullaris",
+			"Cauda equina"
+		],
+		"DropPosition": [
+			"Bottom",
+			"Top",
+			"Bottom",
+			"Top"
+		],
+		"CorrectOptionArray": [
+			"Cauda equina",  
+			"Filum terminate",
+			"Ventral dura",
+			"Conus medullaris"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_17.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			115,
+			335,
+			476,
+			609,
+			551,
+			668
+		],
+		"TopPos": [
+			120,
+			185,
+			324,
+			91,
+			270,
+			445
+		],
+		"OptionArray": [ 
+			"Azygos vein",
+			"Intervertebral disc",
+			"Vertebral body",
+			"Esophagus",  
+			"Intercostal nerve",
+			"R. mainstem bronchus"
+		],
+		"DropPosition": [
+			"Top",
+			"Top",
+			"Bottom",
+			"Top",  
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"R. mainstem bronchus",  
+			"Azygos vein",
+			"Vertebral body",
+			"Esophagus",  
+			"Intervertebral disc",
+			"Intercostal nerve"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_18.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			410,
+			576,
+			595,
+			549,
+			579
+		],
+		"TopPos": [
+			35,
+			49,
+			137,
+			268,
+			393			
+		],
+		"OptionArray": [ 
+			"Intervertebral disc",
+			"Spinal nerve",
+			"Dorsal root ganglion",
+			"Vertebral body",
+			"Dura mater"
+		],
+		"DropPosition": [
+			"Left",
+			"Right",
+			"Right",
+			"Right",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Intervertebral disc",
+			"Vertebral body",
+			"Dura mater",
+			"Dorsal root ganglion",
+			"Spinal nerve"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_19.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			369,
+			327,
+			536,
+			675,
+			538
+		],
+		"TopPos": [
+			98,
+			388,
+			57,
+			217,
+			370			
+		],
+		"OptionArray": [ 
+			"Dorsal root",
+			"Anterior spinal artery",
+			"Ventral root",
+			"Intervertebral disc",
+			"Vertebral body"
+		],
+		"DropPosition": [
+			"Left",
+			"Left",
+			"Right",
+			"Top",
+			"Top"
+		],
+		"CorrectOptionArray": [
+			"Intervertebral disc",
+			"Ventral root",
+			"Vertebral body",
+			"Anterior spinal artery",
+			"Dorsal root"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+    {
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_20.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			436,
+			286,
+			525,
+			645,
+			748,
+			675
+		],
+		"TopPos": [
+			180,
+			273,
+			164,
+			172,
+			345,
+			415				
+		],
+		"OptionArray": [ 
+			"Aorta",
+			"Celiac trunk", 
+			"Intervertebral disc",
+			"Spinal canal",
+			"Renal artery",
+			"Sup. mesenteric artery"
+		],
+		"DropPosition": [
+			"Left",
+			"Bottom",
+			"Top",
+			"Bottom",
+			"Right",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"Celiac trunk", 
+			"Aorta",
+			"Sup. mesenteric artery",
+			"Renal artery",
+			"Intervertebral disc",
+			"Spinal canal"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+   {
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_21.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			312,
+			430,
+			555,
+			690,
+			780,
+			934
+		],
+		"TopPos": [
+			347,
+			344,
+			347,
+			333,
+			333,
+			333
+		],
+		"OptionArray": [ 
+			"C4",
+			"C6",
+			"C8",
+			"C7",
+			"T1",
+			"C5"
+		],
+		"DropPosition": [
+			"Bottom",
+			"Bottom",
+			"Bottom",
+			"Bottom",
+			"Bottom",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"C4",
+			"C5",
+			"C6",
+			"C7",
+			"C8",
+			"T1"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_22.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			435,
+			532,
+			620,
+			729,
+			811,
+			909
+		],
+		"TopPos": [
+			297,
+			298,
+			294,
+			298,
+			295,
+			271				
+		],
+		"OptionArray": [ 
+			"T1",
+			"C7",
+			"C5",
+			"C6",
+			"C4",
+			"C8"	
+		],
+		"DropPosition": [
+			"Bottom",
+			"Bottom",
+			"Bottom",
+			"Bottom",
+			"Bottom",
+			"Bottom"
+		],
+		"CorrectOptionArray": [
+			"C4",
+			"C5",
+			"C6",
+			"C7",
+			"C8",
+			"T1"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_23.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			244,
+			421,
+			388,
+			610,
+			590,
+			798
+		],
+		"TopPos": [
+			112,
+			295,
+			432,
+			255,
+			330,
+			396		
+		],
+		"OptionArray": [ 
+			"Spinal nerve",
+			"Ventral root",
+			"Anterior spinal artery",
+			"Dorsal root ganglion",
+			"Denticulate ligament",
+			"Dorsal root"
+		],
+		"DropPosition": [
+			"Top",
+			"Top",
+			"Left",
+			"Right",
+			"Bottom",
+			"Right"
+		],
+		"CorrectOptionArray": [
+			"Anterior spinal artery",
+			"Denticulate ligament",
+			"Dorsal root ganglion",
+			"Ventral root",
+			"Dorsal root",
+			"Spinal nerve"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
+		]
+	},
+
+	{
+		"header": {
+			"titleText": "Spine"
+		},
+		"pageSection": {
+			"titleInstruction": "Drag and drop the labels.",
+			"hotSpotImageSrc": "assets/Question_24.png",
+			"hotSpotImageWidth": "984",
+			"hotSpotImageHeight": "482",
+			"dragNextImageSrc": "assets/Dragger_Arrow_Next_Active.svg",
+			"dragBackImageSrc": "assets/Dragger_Arrow_Back_Active.svg",
+			"dragNextDeactiveImageSrc": "assets/Dragger_Arrow_Next_Deactive.svg",
+			"dragBackDeactiveImageSrc": "assets/Dragger_Arrow_Back_Deactive.svg"
+		},
+		"bottomContainer": {
+			"nextButtonPathActive": "<img src=\"assets/Next_button_Active.svg\">",
+			"nextButtonPathDeactive": "<img src=\"assets/Next_button_Dective.svg\">",
+			"backButtonPathActive": "<img src=\"assets/Back_button_Active.svg\">",
+			"backButtonPathDeactive": "<img src=\"assets/Back_button_Dective.svg\">",
+			"checkAnswerText": "Check Answer",
+			"tryText": "Try Again"
+		},
+		"DropHolder": {
+			"nextButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"nextButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButton": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">",
+			"backButtonDeactive": "<img src=\"assets/Dragger_Arrow_Next_Active.svg\">"
+		},
+		"LeftPos": [
+			142,
+			265,
+			406,
+			619,
+			783,
+			898
+		],
+		"TopPos": [
+			259,
+			262,
+			373,
+			219,
+			279,
+			233						
+		],
+		"OptionArray": [ 
+			"Conus medullaris",
+			"Dorsal root ganglion",
+			"Filum terminale",
+			"Cauda equina",
+			"Lumbar spinal cord",
+			"Lumbar puncture site"
+		],
+		"DropPosition": [
+			"Bottom",
+			"Top",
+			"Bottom",
+			"Top",
+			"Bottom",
+			"Left"
+		],
+		"CorrectOptionArray": [
+			"Lumbar spinal cord",
+			"Conus medullaris",
+			"Dorsal root ganglion",
+			"Cauda equina",
+			"Lumbar puncture site",
+			"Filum terminale"
+		],
+		"DropListArray": [
+			"1",
+			"2",
+			"3",
+			"4",
+			"5",
+			"6"
+		],
+		"DropListAriaLabel": [
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
+			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
 			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item.",
 			"To select this, press the Enter or Spacebar key. Press the Up and Down arrow key to move to next or previous item."
 		]
